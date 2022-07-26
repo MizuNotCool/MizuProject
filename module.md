@@ -1,4 +1,7 @@
 ### Changelog v1.20
+- Added fstrim (late service start)
+
+### Changelog v1.20
 - Fix module not working normally on Android 10
 - Removed Flush RAM
 - Set OpenGLES to Default
