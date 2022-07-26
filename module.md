@@ -2,6 +2,7 @@
 - Added fstrim (late service start)
 
 ### Changelog v1.20
+- Finally, module update now available for Magisk v25 (I think Magisk v24 also can)
 - Fix module not working normally on Android 10
 - Removed Flush RAM
 - Set OpenGLES to Default
