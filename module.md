@@ -6,5 +6,5 @@
 - Support Android 13 beta 1
 - Added GMS Doze
 - Added sqlite optimizer
-- Disable com.google.android.gms/.chimera.GmsIntentOperationService
+- Disable some GMS Activity
 - okay, now what? ~ItzKaguya
