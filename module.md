@@ -1,3 +1,9 @@
+### Changelog v1.21
+- Added built-in busybox (based from Brutal Busybox by FeraVolt)
+- Clear all Cache after boot
+- Added launcher-enhancer
+- Thermal is totally disabled
+
 ### Changelog v1.20-remastered
 - Added fstrim (late service start)
 
