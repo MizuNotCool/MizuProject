@@ -1,4 +1,4 @@
-### Changelog v1.20
+### Changelog v1.20-remastered
 - Added fstrim (late service start)
 
 ### Changelog v1.20
