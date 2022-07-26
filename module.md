@@ -11,5 +11,3 @@
 - Added sqlite optimizer
 - Disable some GMS Activity
 - okay, now what? ~ItzKaguya
-
-- Github : https://github.com/MizuNotCool/MizuProject
