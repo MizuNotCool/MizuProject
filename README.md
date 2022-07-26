@@ -1,2 +1,2 @@
 # MizuProject
-MizuProject -All in one performance module for Mediatek
+MizuProject - All in one performance module for Mediatek Chipset
