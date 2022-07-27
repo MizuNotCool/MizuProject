@@ -13,3 +13,6 @@ MizuProject - All in one performance module for Mediatek Chipset
 - Basic build.prop SafetyNet Fix
 - Auto dexopt at boot
 - logcat after boot (will be saved on /sdcard/mizu/boot-logs)
+
+### Support Group
+- Telegram : https://t.me/itzkaguyaproject_chat
