@@ -6,6 +6,7 @@
 - Added MTKperf (su -c MTKperf)
 - Added WiFi Bonding for Mediatek Devices
 - Added separate module type (full, released soon)
+- MizuProject Unlocker will be released soon (separate module. PUBG, CODM, MLBB, LOL)
 
 ### Changelog v1.21
 - Added built-in busybox (based from Brutal Busybox by FeraVolt)
