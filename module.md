@@ -1,3 +1,12 @@
+### Changelog v1.22
+- Auto clear dalvik-cache after boot
+- Prevent SELinux Permissive to be detected (hide SELinux Permissive)
+- ZRAM resized to 2560MB
+- Fix fstrim on Phh GSI
+- Added MTKperf (su -c MTKperf)
+- Added WiFi Bonding for Mediatek Devices
+- Added separate module type (full, released soon)
+
 ### Changelog v1.21
 - Added built-in busybox (based from Brutal Busybox by FeraVolt)
 - Clear all Cache after boot
