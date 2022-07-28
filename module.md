@@ -1,3 +1,7 @@
+### Changelog v1.24
+- Removed busybox
+- Updated installer script
+
 ### Changelog v1.23
 - Auto clear cache in SD Card partition
 - Added cpu_booster in /system/bin
