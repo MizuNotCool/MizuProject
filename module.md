@@ -1,3 +1,12 @@
+### Changelog v1.23
+- Auto clear cache in SD Card partition
+- Added cpu_booster in /system/bin
+- Added gpu_booster in /system/bin
+- Added SuzuKernel Manager (auto install as user app)
+- Disabled LMK Debugging
+- Disabled traced
+- Disabled vidc debugging
+
 ### Changelog v1.22
 - Auto clear dalvik-cache after boot
 - Prevent SELinux Permissive to be detected (hide SELinux Permissive)
