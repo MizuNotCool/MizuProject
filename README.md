@@ -6,13 +6,10 @@ MizuProject - All in one performance module for Mediatek Chipset
 - ZRAM 2GB
 - Thermal Disabler (MTK and QCOM)
 - Dalvik Hyperthreading
-- Performance Governor
 - Clear Cache
 - Auto fstrim at boot
-- Busybox
 - Basic build.prop SafetyNet Fix
 - Auto dexopt at boot
-- logcat after boot (will be saved on /sdcard/mizu/boot-logs)
 
 ### How to install?
 1. Download the module.zip
