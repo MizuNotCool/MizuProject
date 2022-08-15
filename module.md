@@ -1,3 +1,19 @@
+### Changelog v1.25
+# Special Hari Kemerdekaan Indonesia (Independence day of Indonesia), we released v1.25 with special features
+- Removed SuzuKernel Manager (manual download)
+- Add some I/O boost
+- Fast Charging
+- Now OPPO devices is supported which have MTK Chipset (tested)
+- Now VIVO devices is supported which have MTK Chipset (not tested)
+- Xiaomi MIUI, OPPO ColorOS, VIVO FuntouchOS is compatible with MizuProject (for some device)
+- Auto Deep-clean cache
+- Saves power when phone sleeps
+- Thermal per-app profile (Thermal will be disabled when game is opened)
+- Mic Fix
+- Removed useless libs
+- Fix Play Integrity
+- Set SafetyNet from Hardware to Basic
+
 ### Changelog v1.24
 - Removed busybox
 - Updated installer script
