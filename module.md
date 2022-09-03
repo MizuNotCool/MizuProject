@@ -1,3 +1,20 @@
+### Changelog v2.11 (Codename : Seblak)
+# Timeskip, huh? ~ItzKaguya
+- Android 13 now supported, yay!
+- Added Fake Encryption
+- Fast Execute
+- Fake GPU
+- Added VTS Check Bypass (for avoid Error Message after boot)
+- Disable app launch blur on Android 12 (A12/A12.1) and Android 13
+- FPS Boost (working on some device)
+- HWUI Patches
+- Disable logd logging daemon
+- Disable LMK debugging
+- Improve LMK service
+- Enable quick start support if available
+- Enable iorap pre-fetching service
+- What again? Tell us on Telegram if want more features
+
 ### Changelog v1.25
 # Special Hari Kemerdekaan Indonesia (Independence day of Indonesia), we released v1.25 with special features
 - Removed SuzuKernel Manager (manual download)
